@@ -1,15 +1,6 @@
-/******************************************************************************
- * File name: ThreadPool
- * Owner: Offir Rokach
- * Reviewer: Tal
- * Review status: Approved
- * Date: 13/03/2025
- * Last Update: 18/03/2025
- ******************************************************************************/
+package ThreadPool;
 
-package il.co.ilrd.ThreadPool;
-
-import il.co.ilrd.WaitablePQueue.WaitablePQueueCV;
+import ThreadSafePQ.ThreadSafePQCond;
 
 import java.util.*;
 import java.util.concurrent.*;
