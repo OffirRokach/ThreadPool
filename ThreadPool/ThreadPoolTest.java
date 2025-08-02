@@ -1,4 +1,4 @@
-package il.co.ilrd.ThreadPool;
+package ThreadPool;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
