@@ -1,12 +1,4 @@
-/******************************************************************************
- * File name: WaitablePQueueCV
- * Owner: Offir Rokach
- * Reviewer: Liran M
- * Review status: Approved
- * Date: 03/03/2025
- * Last Update: 04/04/2025 - fixed after mentor's CR
- ******************************************************************************/
-package il.co.ilrd.WaitablePQueue;
+package ThreadSafePQ;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
