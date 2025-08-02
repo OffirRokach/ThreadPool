@@ -1,4 +1,4 @@
-package il.co.ilrd.WaitablePQueue;
+package ThreadSafePQ;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
